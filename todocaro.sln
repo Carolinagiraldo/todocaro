@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todocaro.common", "todocaro.common\todocaro.common.csproj", "{856ECFFC-CD1A-4DDE-8AB7-CCAEBA2A4934}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todocaro.common", "todocaro.common\todocaro.common.csproj", "{856ECFFC-CD1A-4DDE-8AB7-CCAEBA2A4934}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todocaro.Functions", "todocaro.Functions\todocaro.Functions.csproj", "{72BDDE9A-9CC8-4314-A1AD-6B0C51138F71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todocaro.Functions", "todocaro.Functions\todocaro.Functions.csproj", "{72BDDE9A-9CC8-4314-A1AD-6B0C51138F71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todocaro.test", "todocaro.test\todocaro.test.csproj", "{5554FF39-7F22-4ACF-9892-DD51FD0CCB11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todocaro.test", "todocaro.test\todocaro.test.csproj", "{5554FF39-7F22-4ACF-9892-DD51FD0CCB11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
